@@ -1,5 +1,7 @@
 # Sales Performance Dashboard (2023) | Tableau
 
+<img width="1126" height="577" alt="Tableau screenshot" src="https://github.com/user-attachments/assets/4e68c75c-9b69-4deb-bc2e-25cd4c84234f" />
+
 
 
 ## Overview
@@ -36,6 +38,9 @@ The Sales & Profit by Subcategory section provides a dual perspective on revenue
 ## Time-Series Analysis
 
 The Sales & Profit Over Time section uses dual line charts to evaluate trends.
+
+<img width="1357" height="735" alt="Tableau screenshot 1" src="https://github.com/user-attachments/assets/9fccbe73-5140-4bb3-a574-e3989139bbb8" />
+
 
 ### Features:
 - Average reference lines:
