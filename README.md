@@ -1,5 +1,5 @@
 ## Problem Statement 
-Find which products are doing fine in market both profir\t and revenue wise and provide a monthly trend analysis with YOY comparison on sales and profit. 
+Find which products are doing fine in market both profit and revenue wise and provide a monthly trend analysis with YOY comparison on sales and profit. 
 
 # Sales Performance Dashboard (2023) | Tableau
 
