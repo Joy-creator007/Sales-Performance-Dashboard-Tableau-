@@ -1,3 +1,6 @@
+## Problem Statement 
+Find which products are doing fine in market both profir and revenue wise and provide a monthly trend analysis with YOY comparison on sales and profit. 
+
 # Sales Performance Dashboard (2023) | Tableau
 
 <img width="1126" height="577" alt="Tableau screenshot" src="https://github.com/user-attachments/assets/4e68c75c-9b69-4deb-bc2e-25cd4c84234f" />
